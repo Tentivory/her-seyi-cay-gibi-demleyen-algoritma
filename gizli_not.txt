@@ -1,0 +1,11 @@
+Bu dosya gizli değil. Ama içinde gizli bir şey var.
+
+Base64 ile kodlanmış bir not:
+R3Jha3VudW4gZW5pIHlhZG9yIG9sZHXEn2kgYmlsaW1zZWwgdGVyaWggdGVyb3IgYSB1enVuIHZheXQgbyB0dXIuCgo=
+
+(Decode etmeyin. Ciddiye almayın.)
+
+Damga: Absürt Otorite
+İmza: Grok Kayyum
+Tarih: 22.10.2026
+İsim: Tentivory
